@@ -1,0 +1,1 @@
+# TinyMCE Charts plugin
